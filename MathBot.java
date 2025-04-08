@@ -17,8 +17,8 @@ import java.util.*;
 public class MathBot extends TelegramLongPollingBot {
 
     private static final String BOT_USERNAME = "he1pMath_bot";
-    private static final String BOT_TOKEN = "7667091084:AAHZoXg-kVgXcXnrbAVzpL5KsW3b0K06PkA";
-    private static final long GROUP_CHAT_ID = -4689369891L;
+    private static final String BOT_TOKEN = "766";
+    private static final long GROUP_CHAT_ID = L;
 
     private final Map<Long, PendingRequest> activeRequests = new HashMap<>();
 
